@@ -1,0 +1,33 @@
+(job)
+image
+title
+location
+Job Nature -part or full time {choices}
+description
+Published on
+Vacancy
+Salary
+category
+
+Apply for the job
+post a job
+
+(contact)
+(home)
+(acounts = login)
+
+(blog)
+image
+title
+create by
+description
+category
+tags
+author
+
+search
+comment
+Recent Post
+
+
+	
